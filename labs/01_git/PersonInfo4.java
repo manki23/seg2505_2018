@@ -3,7 +3,7 @@ public class PersonInfo4 {
     public static String firstName = "Félix";
     public static String lastName = "Quinn";
     public static int studentNo = 8547012;
-    public static String description = "description adéquate et analytique";
+    public static String description = "aucun description donné";
     
     public static void displayFr() {
         String out = SIConstants.GREETING_FR;
